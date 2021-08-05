@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13295" started-at="2021-08-05T10:02:40Z" finished-at="2021-08-05T10:02:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13295" started-at="2021-08-05T10:02:40Z" finished-at="2021-08-05T10:02:53Z">
+      <class name="Demo.Demog">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Demo.Demog@31ef45e3]" name="browser" is-config="true" duration-ms="13031" started-at="2021-08-05T15:32:27Z" finished-at="2021-08-05T15:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="maximizebrowser()[pri:0, instance:Demo.Demog@31ef45e3]" name="maximizebrowser" is-config="true" duration-ms="5160" started-at="2021-08-05T15:32:40Z" finished-at="2021-08-05T15:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizebrowser -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:Demo.Demog@31ef45e3]" name="m1" duration-ms="7389" started-at="2021-08-05T15:32:45Z" finished-at="2021-08-05T15:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="capturescreenshot()[pri:0, instance:Demo.Demog@31ef45e3]" name="capturescreenshot" is-config="true" duration-ms="572" started-at="2021-08-05T15:32:52Z" finished-at="2021-08-05T15:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturescreenshot -->
+        <test-method status="PASS" signature="deletecookie()[pri:0, instance:Demo.Demog@31ef45e3]" name="deletecookie" is-config="true" duration-ms="100" started-at="2021-08-05T15:32:53Z" finished-at="2021-08-05T15:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecookie -->
+        <test-method status="PASS" signature="conclose()[pri:0, instance:Demo.Demog@31ef45e3]" name="conclose" is-config="true" duration-ms="0" started-at="2021-08-05T15:32:53Z" finished-at="2021-08-05T15:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conclose -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:Demo.Demog@31ef45e3]" name="closedriver" is-config="true" duration-ms="1903" started-at="2021-08-05T15:32:53Z" finished-at="2021-08-05T15:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- Demo.Demog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
